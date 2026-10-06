@@ -1,80 +1,119 @@
 # Boitbeir – Privacy Policy
-**Last updated:** 09 December 2025
 
-## 1. Introduction
-Boitbeir ("we", "us", "our") is a calendar and event management app designed for small groups.  
-This Privacy Policy explains how we collect, use, and protect your information.  
-By using the app, you agree to the practices described in this policy.
+**Last updated: 6 October 2026**
 
----
+## 1. Who we are
 
-## 2. Information We Collect
+Boitbeir is a free calendar app that lets small groups share events with each other.
 
-### 2.1 Email Address
-We collect your email address when you create an account.
+The data controller responsible for your personal data is:
 
-We use your email only for:
-- Logging into your account  
-- Account identification  
-- Future password reset functionality  
+**Glenn Van der Straeten**, Belgium
+Email: glennvdstraeten@gmail.com
 
-We **do not** collect:
-- Names  
-- Phone numbers  
-- Contacts  
-- Location data  
-- Device information  
-- Payment data  
+In this policy, "we", "us" and "our" refer to the controller above.
 
-We do not track, profile, or share your information.
+Boitbeir is intended for users aged **18 and older**.
 
----
+## 2. What data we process
 
-## 3. How We Use Your Information
-We use your email solely for:
-- Authentication and authorization  
-- Secure access to your events and groups  
-- Password resets (future update)  
+### 2.1 Data you provide
+- **Account data:** your username, email address and password. Your password is never stored in readable form; we only store a secure hash of it.
+- **Groups:** the names and descriptions of groups you create, and which groups you are a member of.
+- **Events:** the title, description, date and time of events you create, and which group they belong to.
+- **Attendance:** which events you have marked yourself as attending.
 
-We do **not** use your email for marketing or advertising.
+Please note that event titles and descriptions are free text. If you mention other people in them (for example "Glenn's birthday party"), that information is shared with the members of the group. Please only share what the other person would be comfortable with.
 
----
+### 2.2 Data created automatically
+- **Timestamps:** when your account was created, when you joined a group, when you created an event and when you marked attendance.
+- **Technical logs:** when the app communicates with our server, our hosting provider may process technical data such as IP addresses and request details. These are used only to operate and secure the service.
+- **Login token on your device:** after you log in, the app stores a login token and your basic account details on your device, so you stay logged in. This is strictly necessary for the app to work.
 
-## 4. Data Storage
-Your email address is stored securely on our server using industry-standard encryption and security practices.  
-We do **not** sell, share, or transfer your email to third parties.
+### 2.3 Reports
+If you use "Report a concern", "Report this event" or "Report" next to a group member, your email app opens a pre-filled message to us. When you send it, we receive your email address, your username, the content of your message, and the identifiers of the event, group or user you are reporting.
 
----
+### 2.4 What we do not collect
+We do not collect your phone number, contacts, location, photos or payment data. We do not use analytics, advertising, or tracking tools, and we do not use cookies.
 
-## 5. Third-Party Services
-Boitbeir does **not** use third-party analytics, advertising, or tracking tools.
+## 3. Why we process your data and on what legal basis
 
----
+| Purpose | Legal basis (GDPR) |
+|---|---|
+| Creating and managing your account, logging in | Performance of a contract (Art. 6(1)(b)) |
+| Showing your groups, events and attendance to you and the members of your groups | Performance of a contract (Art. 6(1)(b)) |
+| Keeping the service secure and preventing abuse (technical logs) | Legitimate interest (Art. 6(1)(f)) |
+| Handling reports and removing content or accounts that violate our rules | Legitimate interest (Art. 6(1)(f)) and, where required, legal obligations (Art. 6(1)(c)) |
 
-## 6. User Rights
-You may:
-- Request deletion of your account  
-- Request correction of your email  
-- Request a copy of your stored data (your email only)  
+We do not use your data for marketing, advertising, or profiling, and we do not sell your data.
 
-To make such requests, contact us at:
+## 4. Who can see your data
 
-**Email:** glennvdstraeten@gmail.com
+- **Members of your groups** can see your username, the events you create in that group, and whether you are attending events in that group.
+- **Your email address is never shown to other users.**
+- Users who are not in a group with you cannot see anything about you.
 
----
+## 5. Service providers
 
-## 7. Children’s Privacy
-The app is not intended for children under 13.
+- **Render** (Render Services, Inc., United States) hosts our server and database. Your data is stored in Render's **Frankfurt (Germany)** region within the European Union. Render processes the data only on our behalf, under its Data Processing Addendum. If Render needs to access data from outside the EU, for example for support or maintenance, this is protected by the safeguards in that addendum: the EU-U.S. Data Privacy Framework and/or the European Commission's Standard Contractual Clauses, as applicable.
+  
+- **Google** distributes the app through Google Play. Google processes data under its own privacy policy when you download the app.
 
----
+We do not share your data with anyone else, unless we are legally required to (for example at the request of law enforcement authorities).
 
-## 8. Changes to This Policy
-We may update this Privacy Policy to reflect improvements or legal requirements.  
-Any updates will be published on this page.
+## 6. How long we keep your data
 
----
+- **Account, groups, events and attendance:** for as long as your account exists.
+- **After you delete your account:** your data is removed from our live database immediately. Copies may remain in our hosting provider's backups for a limited period before they are automatically overwritten.
+- **Reports sent by email:** for as long as needed to handle the report, and at most 12 months, unless we need them longer to comply with a legal obligation.
 
-## 9. Contact Us
-If you have any questions about this policy, you may contact us at:
+## 7. Deleting your account
 
-**Email:** glennvdstraeten@gmail.com
+You can delete your account at any time:
+
+- **In the app:** go to **Profile → Delete account** and confirm.
+- **Without the app:** send an email to glennvdstraeten@gmail.com from the email address linked to your account, with the subject "Delete my account". We will delete your account within 30 days and confirm by email.
+
+Deleting your account permanently removes:
+- your account and profile;
+- all groups you created, including all events in those groups (also events created by other members);
+- all events you created in other groups;
+- your attendance and group memberships.
+
+This cannot be undone.
+
+## 8. Your rights
+
+Under the GDPR, you have the right to:
+- **access** the personal data we hold about you and receive a copy;
+- **correct** inaccurate data;
+- **delete** your data (see section 7);
+- **restrict** the processing of your data;
+- **object** to processing based on our legitimate interest;
+- **data portability:** receive your data in a structured, machine-readable format.
+
+To exercise these rights, email glennvdstraeten@gmail.com. We will respond within one month. We may ask you to confirm your identity, for example by emailing us from the address linked to your account.
+
+You also have the right to lodge a complaint with the Belgian Data Protection Authority (Gegevensbeschermingsautoriteit / Autorité de protection des données): www.gegevensbeschermingsautoriteit.be
+
+## 9. Security
+
+We protect your data with appropriate technical measures, including:
+- passwords stored only as secure hashes (never in readable form);
+- encrypted connections between the app and our server (HTTPS) and between our server and the database (SSL);
+- access to the database restricted to the operator of the app.
+
+No system is completely secure. If a data breach occurs that poses a risk to you, we will inform the authorities and, where required, you.
+
+## 10. Children
+
+Boitbeir is not intended for anyone under 18. We do not knowingly collect data from minors. If we learn that a user is under 18, we will delete the account.
+
+## 11. Changes to this policy
+
+We may update this policy, for example when we add features or when the law changes. The updated version will be published on this page, and the date at the top shows the latest version. If a change significantly affects how we use your data, we will make sure you are informed before it takes effect.
+
+## 12. Contact
+
+For questions about this policy or your data:
+**Glenn Van der Straeten** – glennvdstraeten@gmail.com
